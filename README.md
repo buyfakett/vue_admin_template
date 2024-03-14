@@ -1,5 +1,8 @@
 <h1 align="center">vue_admin_template</h1>
 
+## 此仓库已于2024年3月14日迁移至组织
+[点击跳转](https://github.com/ttutils/vue_admin_template)
+
 此项目是根据[@buyfakett](https://github.com/buyfakett)的vue使用习惯的模板仓库，用于快速写一个后台的前端
 
 项目目录：
@@ -27,7 +30,6 @@
 │   ├── main.js                # 入口文件 加载组件 初始化等
 │   └── permission.js          # 权限管理
 ├── .env.xxx                   # 环境变量配置
-├── .eslintrc.js               # eslint 配置项
 ├── .babelrc                   # babel-loader 配置
 ├── url.config.js              # url配置(不上传至git)
 ├── vue.config.js              # vue-cli 配置
